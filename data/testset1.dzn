@@ -1,3 +1,3 @@
 n=3;
 total=2;
-simmilarities=[|0,1,2|1,0,1|2,1,0|];
+simmilarities=[|0,1,2|1,0,1|2,1,0|]; 
